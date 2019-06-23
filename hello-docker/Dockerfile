@@ -8,3 +8,4 @@ LABEL version = "1.0"
 LABEL author = "Bikram Kundu"
 
 CMD ["echo", "Welcome to - Zero to Hero in Docker"]
+# Now go back to the tutorial and follow the commands
